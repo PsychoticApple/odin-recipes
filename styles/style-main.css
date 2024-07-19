@@ -1,0 +1,15 @@
+* {
+  background-color: whitesmoke;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding: 40px;
+  background-color: rgb(231, 66, 66);
+}
+
+hr {
+  padding: 0px;
+}
